@@ -313,7 +313,7 @@
     "romaji": "Nakittsura ni hachi",
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -322,7 +322,7 @@
     "romaji": "Kuchi wa wazawai no moto",
     "english": "The mouth is the source of disaster",
     "meaning": "Careless speech can cause trouble",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -332,7 +332,7 @@
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Those who stand out may be criticized",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 38,
@@ -341,7 +341,7 @@
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 39,
